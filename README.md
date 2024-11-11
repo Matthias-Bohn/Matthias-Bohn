@@ -1,4 +1,4 @@
-# 💫 About Me
+# 👋 About Me
 
 Hello, I'm Matthias, 35, from Germany. I am currently an apprentice application developer with a strong passion for web development as well as C++ and C#.
 
